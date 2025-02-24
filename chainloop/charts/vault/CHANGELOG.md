@@ -1,8 +1,50 @@
 # Changelog
 
-## 1.4.31 (2024-12-04)
+## 1.6.7 (2025-02-20)
 
-* [bitnami/vault] Release 1.4.31 ([#30780](https://github.com/bitnami/charts/pull/30780))
+* [bitnami/vault] Release 1.6.7 ([#32069](https://github.com/bitnami/charts/pull/32069))
+
+## <small>1.6.6 (2025-02-05)</small>
+
+* [bitnami/vault] Release 1.6.6 (#31781) ([87925bc](https://github.com/bitnami/charts/commit/87925bcff431278154fac514c292b2ec8feccabf)), closes [#31781](https://github.com/bitnami/charts/issues/31781)
+* Update copyright year (#31682) ([e9f02f5](https://github.com/bitnami/charts/commit/e9f02f5007068751f7eb2270fece811e685c99b6)), closes [#31682](https://github.com/bitnami/charts/issues/31682)
+
+## <small>1.6.5 (2025-01-31)</small>
+
+* [bitnami/vault] Release 1.6.5 (#31681) ([54af143](https://github.com/bitnami/charts/commit/54af143ef4abf2746aadfec114ece49bfafdbdfa)), closes [#31681](https://github.com/bitnami/charts/issues/31681)
+
+## <small>1.6.4 (2025-01-24)</small>
+
+* [bitnami/vault] Release 1.6.4 (#31586) ([1151ff3](https://github.com/bitnami/charts/commit/1151ff31c6004424c9983246b2735673f0149cc6)), closes [#31586](https://github.com/bitnami/charts/issues/31586)
+
+## <small>1.6.3 (2025-01-23)</small>
+
+* [bitnami/vault] Fix missing existing PVC volume declaration (#31202) (#31211) ([f743319](https://github.com/bitnami/charts/commit/f743319c46b75d6382bfd4af7e578dbc2cedea52)), closes [#31202](https://github.com/bitnami/charts/issues/31202) [#31211](https://github.com/bitnami/charts/issues/31211) [#31202](https://github.com/bitnami/charts/issues/31202)
+
+## <small>1.6.2 (2025-01-17)</small>
+
+* [bitnami/vault] Release 1.6.2 (#31445) ([b34be1a](https://github.com/bitnami/charts/commit/b34be1a754898b376f2aff703d68609ce81b6994)), closes [#31445](https://github.com/bitnami/charts/issues/31445)
+
+## <small>1.6.1 (2024-12-19)</small>
+
+* [bitnami/*] Fix typo in README (#31052) ([b41a51d](https://github.com/bitnami/charts/commit/b41a51d1bd04841fc108b78d3b8357a5292771c8)), closes [#31052](https://github.com/bitnami/charts/issues/31052)
+* [bitnami/vault] Release 1.6.1 (#31110) ([99abcba](https://github.com/bitnami/charts/commit/99abcba5ae865a78096c8b26632a299d08480635)), closes [#31110](https://github.com/bitnami/charts/issues/31110)
+
+## 1.6.0 (2024-12-12)
+
+* [bitnami/vault] Parametize caBundle in mutatingwebhook (#30709) ([bbac787](https://github.com/bitnami/charts/commit/bbac7879e5179dce88e00195e480169f7fa4032d)), closes [#30709](https://github.com/bitnami/charts/issues/30709)
+
+## 1.5.0 (2024-12-10)
+
+* [bitnami/*] Add Bitnami Premium to NOTES.txt (#30854) ([3dfc003](https://github.com/bitnami/charts/commit/3dfc00376df6631f0ce54b8d440d477f6caa6186)), closes [#30854](https://github.com/bitnami/charts/issues/30854)
+* [bitnami/vault] Detect non-standard images (#30952) ([b7d4d9c](https://github.com/bitnami/charts/commit/b7d4d9c133d90526e52d0cf39ea7096902af2979)), closes [#30952](https://github.com/bitnami/charts/issues/30952)
+
+## <small>1.4.31 (2024-12-04)</small>
+
+* [bitnami/*] docs: :memo: Add "Backup & Restore" section (#30711) ([35ab536](https://github.com/bitnami/charts/commit/35ab5363741e7548f4076f04da6e62d10153c60c)), closes [#30711](https://github.com/bitnami/charts/issues/30711)
+* [bitnami/*] docs: :memo: Add "Prometheus metrics" (batch 6) (#30675) ([7b9cd04](https://github.com/bitnami/charts/commit/7b9cd04c2ffc730a0d62da787f2d4967c0ede47c)), closes [#30675](https://github.com/bitnami/charts/issues/30675)
+* [bitnami/*] docs: :memo: Unify "Securing Traffic using TLS" section (#30707) ([b572333](https://github.com/bitnami/charts/commit/b57233336e4fe9af928ecb4f2a5f334011efb1bc)), closes [#30707](https://github.com/bitnami/charts/issues/30707)
+* [bitnami/vault] Release 1.4.31 (#30780) ([46280fd](https://github.com/bitnami/charts/commit/46280fd8776323c22b2d0140da7e252b7cf6b31a)), closes [#30780](https://github.com/bitnami/charts/issues/30780)
 
 ## <small>1.4.30 (2024-11-22)</small>
 
