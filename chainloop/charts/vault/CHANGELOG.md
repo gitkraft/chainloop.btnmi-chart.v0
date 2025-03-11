@@ -1,8 +1,16 @@
 # Changelog
 
-## 1.6.9 (2025-03-05)
+## 1.7.0 (2025-03-11)
 
-* [bitnami/vault] Release 1.6.9 ([#32320](https://github.com/bitnami/charts/pull/32320))
+* [bitnami/vault] Remove server.replicaCount parameter ([#32384](https://github.com/bitnami/charts/pull/32384))
+
+## <small>1.6.10 (2025-03-05)</small>
+
+* [bitnami/vault] Release 1.6.10 (#32331) ([d09b74e](https://github.com/bitnami/charts/commit/d09b74ec36a7a7b178ff2515fc682da6dc6b1e57)), closes [#32331](https://github.com/bitnami/charts/issues/32331)
+
+## <small>1.6.9 (2025-03-05)</small>
+
+* [bitnami/vault] Release 1.6.9 (#32320) ([4a78adb](https://github.com/bitnami/charts/commit/4a78adb19a9882149d5ebdb6195b96d2422b0bc3)), closes [#32320](https://github.com/bitnami/charts/issues/32320)
 
 ## <small>1.6.8 (2025-02-25)</small>
 
